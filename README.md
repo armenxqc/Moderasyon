@@ -51,8 +51,7 @@ Bu Discord botu, sunucularınızda moderasyonu kolaylaştırmak için geliştiri
 
 
 📜 Komutlar
-Komut	Açıklama
-.kick @kullanıcı [sebep]	Kullanıcıyı sunucudan atar
+```.kick @kullanıcı [sebep]	Kullanıcıyı sunucudan atar
 .ban @kullanıcı [sebep]	Kullanıcıyı sunucudan yasaklar
 .unban @kullanıcı	Kullanıcının yasağını kaldırır
 .mute @kullanıcı [süre]	Kullanıcıyı susturur
@@ -62,10 +61,12 @@ Komut	Açıklama
 .snipe	Silinen son mesajı gösterir
 .stats @kullanıcı	Kullanıcı istatistiklerini gösterir
 .toplurol @rol	Sunucudaki herkese belirtilen rolü verir
-
+```
 
 
 📌 Sosyal Medya & İletişim
 [![Discord](https://img.shields.io/discord/000000000000000000?color=7289DA&label=Discord%20Destek)](https://discord.gg/tJJkCUd3C4)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@armen.xqc.1?si=86bhnRAZZTqzHkZ9)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/direct/t/17843822250312787/?__pwa=1)
