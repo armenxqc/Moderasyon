@@ -2,10 +2,6 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-9.x-blue)](https://www.npmjs.com/)
-[![Discord](https://img.shields.io/discord/000000000000000000?color=7289DA&label=Discord%20Destek)](https://discord.gg/DESTEK_LINKİNİZ)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/kanal_linkiniz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/profil_linkiniz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/profil_linkiniz)
 
 Bu Discord botu, sunucularınızda moderasyonu kolaylaştırmak için geliştirilmiştir. Kullanıcı yönetimi, mesaj denetimi ve çeşitli yönetimsel araçlar içerir.
 
@@ -70,6 +66,6 @@ Komut	Açıklama
 
 
 📌 Sosyal Medya & İletişim
-Discord Profilim: Discord
-YouTube: Kanal Linki
-Instagram: Profil Linki
+[![Discord](https://img.shields.io/discord/000000000000000000?color=7289DA&label=Discord%20Destek)](https://discord.gg/tJJkCUd3C4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@armen.xqc.1?si=86bhnRAZZTqzHkZ9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/direct/t/17843822250312787/?__pwa=1)
