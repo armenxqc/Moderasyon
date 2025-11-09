@@ -54,7 +54,7 @@ Bu Discord botu, sunucularınızda moderasyonu kolaylaştırmak için geliştiri
 3. Botu başlatın: Terminale "node index.js"
 
 
-```📜 Komutlar
+`📜 Komutlar
 Komut	Açıklama
 .kick @kullanıcı [sebep]	Kullanıcıyı sunucudan atar
 .ban @kullanıcı [sebep]	Kullanıcıyı sunucudan yasaklar
@@ -66,11 +66,10 @@ Komut	Açıklama
 .snipe	Silinen son mesajı gösterir
 .stats @kullanıcı	Kullanıcı istatistiklerini gösterir
 .toplurol @rol	Sunucudaki herkese belirtilen rolü verir
-```
+`
 
-```
+
 📌 Sosyal Medya & İletişim
 Discord Profilim: Discord
 YouTube: Kanal Linki
 Instagram: Profil Linki
-```
