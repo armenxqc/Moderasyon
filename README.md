@@ -65,6 +65,7 @@ Bu Discord botu, sunucularınızda moderasyonu kolaylaştırmak için geliştiri
 
 
 📌 Sosyal Medya & İletişim
+
 [![Discord](https://img.shields.io/discord/000000000000000000?color=7289DA&label=Discord%20Destek)](https://discord.gg/tJJkCUd3C4)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@armen.xqc.1?si=86bhnRAZZTqzHkZ9)
