@@ -1,0 +1,9 @@
+{
+  "token": "BOT_TOKENİ",
+  "prefix": ".",
+  "modRole": "YETKİLİ_ROLÜ",
+  "autoRole": "SUNUCUYA_GİRENE_OTO_VERİLCEK_ROL",
+  "logChannel": "LOG",
+  "welcomeLeaveChannel": "GİREN_ÇIKAN_KANALI",
+  "filterLogChannel": "FARKLI_LOG"
+}
